@@ -1,0 +1,11 @@
+hr{
+    height: 2px;
+}
+
+
+.container-fluid{
+    position: inherit;
+    height: 75px;
+    bottom: 0;
+    width: 100%;
+}

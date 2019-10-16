@@ -1,0 +1,12 @@
+p{
+    color: gray;
+}
+
+.button{
+    color: gray;
+    background-color: rgba(255, 255, 255, 0);
+    border: 1px solid gray;
+    padding: 6px;
+    border-radius: 2px;
+    max-height: 26px;
+}
